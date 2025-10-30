@@ -21,7 +21,7 @@ Local Storage: For client-side data persistence.
 Installation:-
 
 Clone the Repository:
-git clone https://github.com/[your-username]/user-management-system.git
+git clone https://github.com/duttjai/user-management-system.git
 cd user-management-system
 Install Dependencies (if using Node.js):
 npm install
